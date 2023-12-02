@@ -1,14 +1,14 @@
+import About from "../About/About";
+import Portfolio from "../Portfolio/Portfolio";
 
-import Footer from '../../Shared/Footer/Footer';
-import NavBar from '../../Shared/NavBar/NavBar';
-import Hero from './Hero';
 
 const Home = () => {
     return (
         <div>
-            <NavBar></NavBar>
-            <Hero></Hero>
-            <Footer></Footer>
+            <About></About>
+
+
+
         </div>
     );
 };

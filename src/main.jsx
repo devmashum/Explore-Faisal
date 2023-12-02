@@ -8,7 +8,7 @@ import { router } from './Routes/Routes.jsx';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <div className=' bg-base-200'>
+  <div className=' bg-slate-900 lg:px-40'>
     <React.StrictMode>
       <RouterProvider router={router} />
     </React.StrictMode>
