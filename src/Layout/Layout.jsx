@@ -1,7 +1,7 @@
-
-
 import SideBar from '../Shared/SideBar/SideBar';
-import About from '../Pages/About/About';
+// import About from '../Pages/About/About';
+import Education from '../Pages/Education/Education';
+import Portfolio from '../Pages/Portfolio/Portfolio';
 
 
 
@@ -11,7 +11,10 @@ const Layout = () => {
             <SideBar></SideBar>
 
             <div className='lg:w-[60%] p-10'>
-                <About></About>
+                <Education></Education>
+                {/* <About></About> */}
+                <Portfolio></Portfolio>
+
             </div>
         </div>
     );
