@@ -40,8 +40,7 @@ const NavLinks = () => {
             </div>
 
             <div>
-                <button className="btn btn-accent btn-outline mt-10">View Full Résumé
-                </button>
+                <a className="text-white btn btn-accent btn-outline mt-10" href="https://drive.google.com/file/d/1xQfZm_5rQASfu0bZXVwMXkwPXlQ7i8tz/view?usp=sharing" target="0">View Full Résumé</a>
             </div>
 
 

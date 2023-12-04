@@ -1,6 +1,6 @@
 const HeaderSection = () => {
     return (
-        <div>
+        <div className="">
             <div className="lg:block hidden md:hidden">
 
                 <span className="group/korok inline-flex lg:cursor-[url('/images/koroks/Elma.png'),_pointer] lg:font-medium lg:text-slate-200 text-6xl font-display">
@@ -20,11 +20,11 @@ const HeaderSection = () => {
                 </span>
 
             </div>
-            <div className="text-6xl text-slate-200 md:block block lg:hidden font-display mt-10 lg:mt-0">Faisal Ahmed</div>
-            <p className='text-slate-200 font-bold text-xl mt-5'>
+            <div className="text-6xl text-slate-100 md:block block lg:hidden font-display mt-10 lg:mt-0">Faisal Ahmed</div>
+            <p className='text-slate-200 font-bold text-2xl mt-5'>
                 Passionate Web Developer <br /> Business Management Graduate | Innovator
             </p>
-            <p className=' text-slate-200 font-bold text-base mt-5'>
+            <p className=' text-slate-300 font-bold text-xl mt-5'>
                 Crafting outstanding and user-friendly digital <br />
                 experiences for the web is my passion.
 

@@ -1,8 +1,8 @@
 const About = () => {
     return (
 
-        <div id="about" className=" text-slate-500 hover:text-slate-400 text-xl text-justify pt-10">
-            <h2 className=" text-slate-200 py-5 text-2xl">About:</h2>
+        <div id="about" className=" text-slate-500 hover:text-slate-400 text-2xl text-justify pt-10">
+            <h2 className=" text-slate-200 py-5 text-3xl">About:</h2>
             <h4>   Greetings! I'm Faisal, a dedicated web developer driven by a profound passion for leveraging modern technologies to solve business challenges. While my academic background includes a Bachelor's in Business Management, my journey into the world of web development began in 2018, sparked by a genuine curiosity and desire for self-satisfaction.</h4>
 
             <br />
