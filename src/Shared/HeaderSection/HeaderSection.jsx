@@ -3,7 +3,7 @@ const HeaderSection = () => {
         <div className="">
             <div className="lg:block hidden md:hidden">
 
-                <span className="group/korok inline-flex lg:cursor-[url('/images/koroks/Elma.png'),_pointer] lg:font-medium lg:text-slate-200 text-6xl font-display">
+                <span className="group/korok inline-flex lg:cursor-[url('/images/koroks/Elma.png'),_pointer] lg:font-medium lg:text-slate-200 text-5xl font-display">
                     <span className="group-hover/korok:text-red-400 transition duration-75 group-hover/korok:-translate-y-px delay-[50ms] sm:delay-[50ms] md:delay-[50ms]" aria-hidden="true">F</span>
                     <span className="group-hover/korok:text-orange-400 transition duration-75 group-hover/korok:-translate-y-px delay-[75ms] sm:delay-[75ms] md:delay-[75ms]" aria-hidden="true">a</span>
                     <span className="group-hover/korok:text-yellow-400 transition duration-75 group-hover/korok:-translate-y-px delay-[100ms] sm:delay-[100ms] md:delay-[100ms]" aria-hidden="true">i</span>
@@ -21,10 +21,10 @@ const HeaderSection = () => {
 
             </div>
             <div className="text-6xl text-slate-100 md:block block lg:hidden font-display mt-10 lg:mt-0">Faisal Ahmed</div>
-            <p className='text-slate-200 font-bold text-2xl mt-5'>
+            <p className='text-slate-200 text-xl mt-5'>
                 Passionate Web Developer <br /> Business Management Graduate | Innovator
             </p>
-            <p className=' text-slate-300 font-bold text-xl mt-5'>
+            <p className=' text-slate-300  text-base mt-3'>
                 Crafting outstanding and user-friendly digital <br />
                 experiences for the web is my passion.
 

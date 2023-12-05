@@ -9,7 +9,8 @@ import { router } from './Routes/Routes.jsx';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <div className=' bg-slate-900 hover:bg-gradient-to-b from-slate-800 via-slate-850 to-slate-900  xl:px-20 lg:px-10'>
+  <div className=' bg-slate-900 xl:px-20 lg:px-10'>
+    {/* hover:bg-gradient-to-b from-slate-800 via-slate-850 to-slate-900 */}
 
     <React.StrictMode>
       <RouterProvider router={router} />
