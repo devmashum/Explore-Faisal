@@ -24,7 +24,7 @@ const HeaderSection = () => {
             <p className='text-slate-200 text-xl mt-5'>
                 Passionate Web Developer <br /> Business Management Graduate | Innovator
             </p>
-            <p className=' text-slate-300  text-base mt-3'>
+            <p className=' text-slate-300  text-base mt-3 lg:-mb-0 -mb-10'>
                 Crafting outstanding and user-friendly digital <br />
                 experiences for the web is my passion.
 

@@ -1,7 +1,7 @@
 const About = () => {
     return (
 
-        <div id="about" className=" text-slate-500 hover:text-slate-400 text-base text-justify">
+        <div id="about" className=" text-slate-500 hover:text-slate-400 text-base text-justify lg:pt-10">
             <h4>   Greetings! I'm Faisal, a dedicated web developer driven by a profound passion for leveraging modern technologies to solve business challenges. While my academic background includes a Bachelor's in Business Management, my journey into the world of web development began in 2018, sparked by a genuine curiosity and desire for self-satisfaction.</h4>
 
             <br />
