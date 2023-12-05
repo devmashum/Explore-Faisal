@@ -8,18 +8,18 @@ const About = () => {
 
             <h4 className=" text-slate-200 py-5">Tech Stack:</h4>
 
-            <div className="grid lg:grid-cols-6 grid-cols-4 gap-3 lg:p-10 lg:bg-slate-700 rounded-xl py-5">
+            <div className="grid lg:grid-cols-6 grid-cols-3 gap-5 lg:p-10 lg:bg-slate-700 rounded-xl py-5">
 
-                <button className="btn btn-sm px-7 btn-accent">HTML5</button>
-                <button className="btn btn-sm px-7 btn-accent">CSS3</button>
-                <button className="btn btn-sm px-7 btn-accent">JavaScript</button>
-                <button className="btn btn-sm px-7 btn-accent">Tailwind CSS</button>
-                <button className="btn btn-sm px-7 btn-accent">daisyUi</button>
-                <button className="btn btn-sm px-7 btn-accent">React</button>
-                <button className="btn btn-sm px-7 btn-accent">MongoDB</button>
-                <button className="btn btn-sm px-7 btn-accent">Firebase</button>
-                <button className="btn btn-sm px-7 btn-accent">JWT</button>
-                <button className="btn btn-sm px-7 btn-accent">WordPress</button>
+                <button className="btn btn-sm px-10 btn-accent">HTML5</button>
+                <button className="btn btn-sm px-10 btn-accent">CSS3</button>
+                <button className="btn btn-sm px-10 btn-accent">JavaScript</button>
+                <button className="btn btn-sm px-10 btn-accent">Tailwind CSS</button>
+                <button className="btn btn-sm px-10 btn-accent">daisyUi</button>
+                <button className="btn btn-sm px-10 btn-accent">React</button>
+                <button className="btn btn-sm px-10 btn-accent">MongoDB</button>
+                <button className="btn btn-sm px-10 btn-accent">Firebase</button>
+                <button className="btn btn-sm px-10 btn-accent">JWT</button>
+                <button className="btn btn-sm px-10 btn-accent">WordPress</button>
 
             </div>
 

@@ -20,7 +20,7 @@ const HeaderSection = () => {
                 </span>
 
             </div>
-            <div className="text-6xl text-slate-100 md:block block lg:hidden font-display mt-10 lg:mt-0">Faisal Ahmed</div>
+            <div className="text-5xl text-slate-100 md:block block lg:hidden font-display mt-10 lg:mt-0">Faisal Ahmed</div>
             <p className='text-slate-200 text-xl mt-5'>
                 Passionate Web Developer <br /> Business Management Graduate | Innovator
             </p>
