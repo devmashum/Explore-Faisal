@@ -12,6 +12,7 @@ export default function Error() {
                 <i>{error.statusText || error.message}</i>
             </p>
 
+
             <Link to={'/'}><button className="btn btn-accent btn-outline mt-10">Back to Home</button></Link>
         </div>
     );
