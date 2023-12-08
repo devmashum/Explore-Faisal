@@ -40,7 +40,7 @@ const NavLinks = () => {
             </div>
 
             <div>
-                <a className="btn bg-cyan-800 text-white btn-outline mt-5" href="https://drive.google.com/file/d/1xQfZm_5rQASfu0bZXVwMXkwPXlQ7i8tz/view?usp=sharing" target="0">View Full Résumé</a>
+                <a className="btn bg-cyan-800 hover:bg-cyan-600 text-white btn-outline mt-5" href="https://drive.google.com/file/d/1xQfZm_5rQASfu0bZXVwMXkwPXlQ7i8tz/view?usp=sharing" target="0">View Full Résumé</a>
             </div>
 
 
