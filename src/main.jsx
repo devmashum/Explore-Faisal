@@ -9,7 +9,7 @@ import { router } from './Routes/Routes.jsx';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <div className='  xl:px-20 lg:px-10'>
+  <div className='bg-gradient-to-br from-blue-300 to-gray-200  xl:px-20 lg:px-10'>
     {/* hover:bg-gradient-to-b from-slate-800 via-slate-850 to-slate-900 */}
 
     <React.StrictMode>

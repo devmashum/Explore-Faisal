@@ -22,7 +22,7 @@ const HeaderSection = () => {
             </div>
             <div className="text-5xl text-slate-900 md:block block lg:hidden font-display mt-10 lg:mt-0">Faisal Ahmed</div>
             <p className='text-slate-900 text-xl mt-5'>
-                Passionate Web Developer <br /> Business Management Graduate | Innovator
+                Passionate Web Developer <br /> 
             </p>
             <p className=' text-slate-900  text-base mt-3 lg:-mb-0 -mb-10'>
                 Crafting outstanding and user-friendly digital <br />
