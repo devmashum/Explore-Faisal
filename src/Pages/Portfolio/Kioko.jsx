@@ -4,7 +4,7 @@ import kioko from '../../assets/Kioko Sushi GmbH.png';
 const Kioko = () => {
     return (
         <div>
-               <div id="portfolio" className="lg:hover:-mx-10 shadow-xl lg:p-10 rounded-lg lg:mt-10 lg:pt-5 pt-10">
+               <div id="portfolio" className="lg:hover:-mx-10 shadow-xl lg:p-10 p-5 rounded-lg lg:mt-10 lg:pt-5 pt-10">
         <div className="">
           <div className="flex justify-between item-center gap-5 mb-5">
           <div className='lg:flex gap-3'>
@@ -34,9 +34,9 @@ const Kioko = () => {
               Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within the engineering department through close collaboration, knowledge shares, and mentorship.
             </h4>
             <div className="grid grid-cols-3 gap-5">
-              <a className="btn btn-sm px-10 hover:bg-cyan-600 bg-cyan-800 btn-outline text-white">WordPress</a>
-              <a className="btn btn-sm px-10 hover:bg-cyan-600 bg-cyan-800 btn-outline text-white">HTML</a>
-              <a className="btn btn-sm px-10 hover:bg-cyan-600 bg-cyan-800 btn-outline text-white">CSS</a>
+              <a className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">WordPress</a>
+              <a className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">HTML</a>
+              <a className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">CSS</a>
             </div>
           </div>
         </div>

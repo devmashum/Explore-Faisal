@@ -10,7 +10,7 @@ const ApexArtistry = () => {
             
             <div className='lg:flex gap-3'>
             <div><h3 className='hidden lg:block text-slate-900'>Project Title: </h3></div>
-            <div><h2 className="text-slate-900 text-base font-bold">
+            <div><h2 className="text-slate-900 text-base font-bold lg:block hidden">
             Apex Artistry</h2>
             </div>
             </div>
@@ -28,7 +28,7 @@ const ApexArtistry = () => {
                 </div>
               </Link>
               <Link className=" text-slate-900" to="https://apexartistry-47b43.web.app/" target="_blank">
-                <div className="flex justify-center items-center gap-2">
+                <div className="flex justify-center items-center gap-2 lg:mr-0 mr-10">
                 <div><span>Live</span></div>
                 <div><FaExternalLinkAlt /></div>
                 </div>
@@ -39,6 +39,12 @@ const ApexArtistry = () => {
             <img src={apexArtistry} alt="" />
           </Link>
           <div>
+          <div className='flex gap-3'>
+            <div><h3 className='block lg:hidden text-slate-900'>Project Title: </h3></div>
+            <div><h2 className="text-slate-900 text-base font-bold lg:hidden block">
+            Apex Artistry</h2>
+            </div>
+            </div>
             <h3 className="text-slate-900 text-base font-bold mt-3">Project Details:</h3>
             <h4 className="text-slate-900 my-3  text-justify text-base">
             

@@ -59,25 +59,25 @@ const Contact = () => {
 
                 </div>
                 <div className="form-control mt-6">
-                    <button type="submit" className="btn hover:bg-cyan-600 bg-cyan-800 text-white">Send</button>
+                    <button type="submit" className="btn hover:bg-blue-500 bg-blue-600 text-white">Send</button>
 
                 </div>
             </form>
 
             <div className="lg:block flex justify-center items-center  mt-5 lg:mt-0 gap-5 ">
                 <div className="py-5 hover:pb-10">
-                    <Link className="text-white lg:text-3xl text-xl hover:text-cyan-300 " to={'https://github.com/devmashum'} target="0">
+                    <Link className="text-white lg:text-3xl text-xl hover:text-blue-600 " to={'https://github.com/devmashum'} target="0">
                         <PiGithubLogo />
                     </Link>
                 </div>
                 <div className="lg:pb-5 hover:pb-10">
-                    <a className="lg:text-3xl text-white text-xl hover:text-cyan-300" href="mailto:dev.mashum@gmail.com">
+                    <a className="lg:text-3xl text-white text-xl hover:text-blue-600" href="mailto:dev.mashum@gmail.com">
                         <IoMdMail />
 
                     </a>
                 </div>
                 <div className="hover:pb-10">
-                    <Link className="text-white text-xl lg:text-3xl hover:text-cyan-300" to={'https://www.linkedin.com/in/faisal-ahmed-mashum/'} target="0">
+                    <Link className="text-white text-xl lg:text-3xl hover:text-blue-600" to={'https://www.linkedin.com/in/faisal-ahmed-mashum/'} target="0">
                         <SlSocialLinkedin />
                     </Link>
                 </div>
