@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { IoMdMail } from "react-icons/io";
 import { SlSocialLinkedin } from "react-icons/sl";
 import { PiGithubLogo } from "react-icons/pi";
-
 import useAxios from "../../hook/useAxios";
 import Swal from "sweetalert2";
 
@@ -41,9 +40,9 @@ const Contact = () => {
 
 
         <div className="lg:flex justify-center items-center lg:gap-5 lg:flex-row-reverse  my-5">
-            <form onSubmit={handleContactForm} className="card-body rounded-xl border border-slate-200">
+            <form onSubmit={handleContactForm} className="card-body rounded-xl border border-slate-900">
                 <div>
-                    <h3 className=" text-slate-200 text-2xl">Contact</h3>
+                    <h3 className=" text-slate-900 text-2xl">Contact</h3>
                 </div>
                 <div className="form-control">
                     <label className="label">
