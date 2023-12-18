@@ -34,9 +34,9 @@ const Kioko = () => {
               Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within the engineering department through close collaboration, knowledge shares, and mentorship.
             </h4>
             <div className="grid grid-cols-3 gap-5">
-              <a className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">WordPress</a>
-              <a className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">HTML</a>
-              <a className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">CSS</a>
+              <a className="btn btn-sm px-10hover:bg-blue-700 bg-blue-500 btn-outline text-white">WordPress</a>
+              <a className="btn btn-sm px-10hover:bg-blue-700 bg-blue-500 btn-outline text-white">HTML</a>
+              <a className="btn btn-sm px-10hover:bg-blue-700 bg-blue-500 btn-outline text-white">CSS</a>
             </div>
           </div>
         </div>

@@ -77,13 +77,13 @@ Password (same for all users): 123456
  
             </h4>
             <div className="grid grid-cols-3 gap-5">
-            <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">JavaScript</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">React</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Tailwind</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">DaisyUi</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">MongoDb</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Firebase</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">JWT</button>
+            <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">JavaScript</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">React</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Tailwind</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">DaisyUi</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">MongoDb</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Firebase</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">JWT</button>
             </div>
           </div>
         </div>

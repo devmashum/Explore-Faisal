@@ -49,10 +49,10 @@ const DragonNews = () => {
               Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship.
             </h4>
             <div className="grid grid-cols-3 gap-5">
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Next.js</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Material Ui</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Daisy Ui</button>
-              <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">MongoDb</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Next.js</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Material Ui</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Daisy Ui</button>
+              <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">MongoDb</button>
             </div>
           </div>
         </div>

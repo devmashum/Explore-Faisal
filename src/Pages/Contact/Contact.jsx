@@ -59,7 +59,7 @@ const Contact = () => {
 
                 </div>
                 <div className="form-control mt-6">
-                    <button type="submit" className="btn hover:bg-blue-500 bg-blue-600 text-white">Send</button>
+                    <button type="submit" className="btn hover:bg-blue-700 bg-blue-500 text-white">Send</button>
 
                 </div>
             </form>

@@ -12,19 +12,19 @@ const About = () => {
 
             <div className="grid lg:grid-cols-6 grid-cols-3 gap-5 lg:p-10 lg:bg-gradient-to-br from-blue-300 to-blue-300 rounded-xl py-5">
 
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">HTML5</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">CSS3</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">JavaScript</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">React</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Next.js</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Tailwind CSS</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">daisyUi</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Material UI</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">HTML5</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">CSS3</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">JavaScript</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">React</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Next.js</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Tailwind CSS</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">daisyUi</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Material UI</button>
                
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">MongoDB</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">Firebase</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">JWT</button>
-                <button className="btn btn-sm px-10 hover:bg-blue-500 bg-blue-700 btn-outline text-white">WordPress</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">MongoDB</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">Firebase</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">JWT</button>
+                <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">WordPress</button>
                
             </div>
 
