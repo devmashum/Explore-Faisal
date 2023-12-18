@@ -48,7 +48,14 @@ const CarDoctor = () => {
             </div>
             <h3 className="text-slate-900 text-base font-bold mt-3">Project Details:</h3>
             <h4 className="text-slate-900 my-3 text-justify text-base">
-              Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship.
+            Car Doctor is an online platform providing car repair services to customers. Customers can book a service by specifying the service name and preferred date. In the shop section, customers can explore and purchase available products. Additionally, a contact page is included to facilitate easy communication with the company. <br />
+<br/>
+<b>Functionality:</b>
+<br />
+<b>User Authentication: </b> <br />
+Firebase is employed for user registration, login/logout functionality. <br />
+<b>Security:</b>  <br />The website is secured using Json Web Token (JWT) to ensure a safe user experience. <br />
+<b>DataStore:</b> <br />MongoDB is utilized to store all relevant data, ensuring efficient data management.
             </h4>
             <div className="grid grid-cols-3 gap-5">
             <button className="btn btn-sm px-10 hover:bg-blue-700 bg-blue-500 btn-outline text-white">JavaScript</button>
