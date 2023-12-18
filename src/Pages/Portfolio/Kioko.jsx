@@ -31,7 +31,12 @@ const Kioko = () => {
           <div>
             <h3 className="text-slate-900 text-base font-bold mt-3">Project Details:</h3>
             <h4 className="text-slate-900 my-3 text-justify text-base">
-              Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more. Provide leadership within the engineering department through close collaboration, knowledge shares, and mentorship.
+          
+<b>Dine-In Reservations:</b> <br />
+Customers can effortlessly reserve a table through this user-friendly website. They simply need to select their preferred date and time, and specify the number of guests they'll be bringing.
+<br /> <br />
+<b>Online Ordering:</b> <br />
+For added convenience, customers can order their food for home delivery or takeaway directly through the website. The online ordering feature enables customers to explore an extensive menu, place an order, and choose whether they want their meal delivered or prepared for takeaway.
             </h4>
             <div className="grid grid-cols-3 gap-5">
               <a className="btn btn-sm px-10hover:bg-blue-700 bg-blue-500 btn-outline text-white">WordPress</a>
